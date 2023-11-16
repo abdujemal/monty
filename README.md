@@ -1,3 +1,3 @@
 # Monty Alx Project
 by :- Mohammed Mussa
-    - Abdurahman Kedir
+    and Abdurahman Kedir
